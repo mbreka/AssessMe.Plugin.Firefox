@@ -1,0 +1,20 @@
+{
+  "browser_action": {
+    "browser_style": true,
+    "default_title": "AssessMe Web Plugin",
+    "default_popup": "window.html",
+    "default_icon": {
+      "19": "icons/Icon_AssessMe.png",
+      "38": "icons/Icon_AssessMe.png"
+    }
+  },
+  "icons": {
+    "48": "icons/Icon_AssessMe.png",
+    "96": "icons/Icon_AssessMe.png"
+  },
+  "description": "A list of methods you can perform on a window.",
+  "homepage_url": "https://github.com/mbreka/AssessMe.Plugin.Firefox/tree/main",
+  "manifest_version": 2,
+  "name": "AssessMe Web",
+  "version": "1.0"
+}
